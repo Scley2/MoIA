@@ -1,0 +1,5 @@
+{
+  "name": "MoIA Dashboard",
+  "description": "Um dashboard avançado de observabilidade que utiliza a IA do Gemini para transformar métricas técnicas de nuvem em insights de negócio e alertas profissionais.",
+  "requestFramePermissions": []
+}
